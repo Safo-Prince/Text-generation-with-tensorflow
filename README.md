@@ -19,7 +19,7 @@ Download  the irish-lyrics dataset and put them in the same directory, which con
 
 ## Usage
 
-1. Clone the repository: git clone https://github.com/your-username/irish-lyrics-generation.git
+1. Clone the repository: git clone https://github.com/Safo-Prince/Text-generation-with-tensorflow.git
 
 2. Change into the project directory: cd irish-lyrics-generation
 
